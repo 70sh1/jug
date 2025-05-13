@@ -1,1 +1,3 @@
 70sh1's scoop (https://scoop.sh) bucket.
+
+To add/install this bucket, run `scoop bucket add jug https://github.com/70sh1/jug`
